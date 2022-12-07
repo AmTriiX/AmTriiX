@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AmTriiX
+- 👀 I'm a Rainbow Six Pro Player
+- 🐍 I’m a Python Developer
+- ⚡️ View my [portfolio](https://amtriix.it)
+- 📧 Contact me [here](https://amtriix.it/contact)
+- 📹 [YouTube](https://youtube.com/@AmTriiX) [Twitter](https://twitter.com/AmTriiX) [Instagram](https://instagram.com/_edoardobergamo_) [TabStats](https://tabstats.com/siege/player/amtriix/3f7ebe28-e24f-4fbc-b3a9-c1d787deecb2)
